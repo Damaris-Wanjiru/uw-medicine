@@ -278,6 +278,11 @@ button:hover {
 
     
 }
+.footer2 > ul>li > a{
+color: #fff; 
+     text-decoration: none;
+     cursor: pointer;
+ }
 .footer6 {
     text-align: center;
     align-items: center;
