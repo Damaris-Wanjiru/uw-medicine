@@ -295,6 +295,11 @@ color: #fff;
  list-style: none;
 
 }
+.footer6 > div > p {
+    font-size: 2rem;
+    font-weight: 300;
+    color: aliceblue;
+}
 
 .footer6 > div > ul > li{
     margin: .8rem;
