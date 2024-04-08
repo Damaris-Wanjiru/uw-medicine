@@ -79,8 +79,8 @@ body {
     width: 9rem;
     margin-top: 1rem;
 }
- 
- .image > img{
+
+.image > img{
     width: 50rem;
     height: 20rem;
     border-radius: 5rem;
@@ -88,6 +88,7 @@ body {
     padding: 2rem;
  }
  .section2 {
+    
    
  }
  .section2 > h2 {
