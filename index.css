@@ -14,6 +14,14 @@ li{
 select {
     border: none;
     background-color: #fff;
+    
+}
+.services {
+    border: none;
+    background-color: #4c5b61;
+    list-style: none;
+    color: #4c5b61;
+
 }
 .fa-solid {
     margin-right: 15px;
@@ -45,16 +53,28 @@ select {
     border-radius: 25px;
     padding: .4rem 0rem;
 }
+.nav2 > ul > li > a{
+    text-decoration: none;
+    color: white;
+}
+.nav2 > ul > li > i {
+    color: white;
+}
+.services {
+    color: white;
+    background-color: #4c5b61;
+    border: none;margin: 0;
+}
 .finder {
 padding:0 1.5rem;
 padding-left: 3rem;
 }
+
 .nav2 > ul {
     color: #fff;
     display: flex;
     justify-content: space-between;
     list-style: none;
-
 }
 .body-sec1 {
     display: flex;
