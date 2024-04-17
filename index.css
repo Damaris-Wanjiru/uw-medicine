@@ -89,6 +89,18 @@ padding-left: 3rem;
     margin-top: 3rem;
    
 }
+.three1 {
+    text-decoration: none;
+    background-color: #4c5b61;
+    justify-content: center;
+    display: flex;
+    border: none;
+    color: #fff;
+}
+.three > li > option {
+    background-color: #4c5b61;
+    color: white;
+}
 .btns {
     display: block;
 
@@ -192,6 +204,10 @@ button:hover {
     flex-wrap: wrap;
     padding: 1rem;
 }
+.m-blog {
+    text-align: center;
+    text-decoration: underline;
+}
 
 .news-container > div >img {
    border-radius: 15px;
@@ -276,6 +292,7 @@ button:hover {
     color: #fff;
     padding: 3rem;
 }
+
 .footer1 {
     display: flex;
     justify-content: space-between;
@@ -330,3 +347,6 @@ color: #fff;
       color: #fff;
       
      }
+     .iecons > ul >li > a{
+        color: white;
+      }

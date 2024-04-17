@@ -1,0 +1,124 @@
+.maps > img {
+    width: 25rem;
+    height: 20rem;
+    margin-top: 4rem;
+    display: grid;
+}
+.sect1 {
+    display: flex;
+    margin-top: 5rem;
+}
+.image > img{
+    text-align: left;
+    margin-left: 50rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.boxes >input {
+    border-radius: 4rem;
+    width: 20rem;
+    height: 2rem;
+    margin-left: 3rem;
+    justify-content: space-between;
+    margin-top: 3rem;
+}
+.sect1 > h1 {
+    margin-left: 4rem;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #4c5b61;
+    margin-top: 3rem;
+}
+.body {
+    background-color: #fff;
+}
+.input {
+    
+    border-radius: 2rem;
+}
+body {
+    background-color: #f8fafa;;
+ }
+ li{
+     /* padding-right: .1rem; */
+    
+ }
+ .navigation {
+     display: flex;
+     justify-content: space-between;
+     padding-right: 2rem;
+ }
+ 
+ select {
+     border: none;
+     background-color: #fff;
+     
+ }
+ .services {
+     border: none;
+     background-color: #4c5b61;
+     list-style: none;
+     color: #4c5b61;
+ 
+ }
+ .fa-solid {
+     margin-right: 15px;
+   
+ }
+ .nav1 > ul > li{
+     margin: 1rem;
+ }
+ .nav1 > ul{
+     display: flex;
+     list-style: none;
+ }
+ .navigation > div > ul {
+     display: flex;
+     list-style: none;
+ }
+ .navigation > div > ul > li {
+   margin: 1rem;
+ }
+ .navigation > div > ul > li > a {
+     list-style: none;
+     text-decoration: none;
+     color: black;
+     cursor: pointer;
+ }
+ .nav2 {
+     background-color: #4c5b61;
+     height: 3rem;
+     border-radius: 25px;
+     padding: .4rem 0rem;
+ }
+ .nav2 > ul > li > a{
+     text-decoration: none;
+     color: white;
+ }
+ .nav2 > ul > li > i {
+     color: white;
+ }
+ .services {
+     color: white;
+     background-color: #4c5b61;
+     border: none;margin: 0;
+ }
+ .finder {
+ padding:0 1.5rem;
+ padding-left: 3rem;
+ }
+ 
+ .nav2 > ul {
+     color: #fff;
+     display: flex;
+     justify-content: space-between;
+     list-style: none;
+ }
+ .three1 {
+    text-decoration: none;
+    background-color: #4c5b61;
+    justify-content: center;
+    display: flex;
+    border: none;
+    color: #fff;
+}

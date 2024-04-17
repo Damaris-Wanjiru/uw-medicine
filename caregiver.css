@@ -1,3 +1,7 @@
+.picha > img {
+    width: 60rem;
+    height: 70rem;
+}
 body {
     background-color: #f8fafa;;
  }
@@ -54,53 +58,6 @@ body {
      display: flex;
      justify-content: space-between;
      list-style: none;
- }
- .section1 {
-    display: flex;
-    margin-left: 15rem;
-    padding: 2rem;
-    flex-wrap: wrap;
-    background-color: #f8fafa;
- }
- .about {
-    margin-top: 5rem;
- }
- .about > h1 {
-    font-size: 2rem;
-    font-weight: 400;
-    
- }
- .about > button { 
-    background-color: #068184;
-    border-radius: 5px;
-    border: none;
-    display: flex;
-    padding: .8rem;
-    width: 9rem;
-    margin-top: 1rem;
-}
-
-.image > img{
-    width: 50rem;
-    height: 20rem;
-    border-radius: 5rem;
-    margin-top: 3rem;
-    padding: 2rem;
- }
- .section2 {
-    
-   
- }
- .section2 > h2 {
-    color: #068184;
-    font-size: 2rem;
-    font-weight: 600;
- }
- .section2 > p {
-    font-size: 1.2rem;
-    font-weight: 400; 
-    background-color:#fff;
-   
  }
  .footer {
     background-color:  #4c5b61;
@@ -160,4 +117,3 @@ color: #fff;
      .iecons > ul >li > a{
         color: white;
       }
-      

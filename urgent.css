@@ -1,0 +1,239 @@
+.footer1 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    text-align: center;
+    box-sizing: border-box;
+    padding-right: 1rem;
+}
+.footer {
+    background-color: #4c5b61;
+} 
+.iecons {
+    color: white;
+}
+
+.footer2 > ul  {
+    display: block;
+    text-align: left;
+    list-style: none;
+}
+.footer2 > ul>li {
+   margin-top: .8rem;  
+}
+.footer2 > ul>li > a{
+color: #fff; 
+     text-decoration: none;
+     cursor: pointer;
+ }
+.footer6 {
+    text-align: center;
+    align-items: center;
+    padding-bottom: 2rem;
+    color: #fff;
+}
+.footer6 > div > ul {
+ display: flex;
+ justify-content: center;
+ list-style: none;
+
+}
+.footer6 > div > p {
+    font-size: 2rem;
+    font-weight: 300;
+    color: aliceblue;
+}
+
+.footer6 > div > ul > li{
+    margin: .8rem;
+     
+    }
+    .footer6 > div > ul > li >i{
+    font-size: 2rem;
+      color: #fff;
+     }
+     .iecons > ul >li > a{
+        color: white;
+      }
+     body {
+        background-color: #f8fafa;
+        
+     }
+    
+     .navigation {
+         display: flex;
+         justify-content: space-between;
+         padding-right: 2rem;
+     }
+     
+     select {
+         border: none;
+         background-color: #fff;
+         
+     }
+     .services {
+         border: none;
+         background-color: #4c5b61;
+         list-style: none;
+         color: #4c5b61;
+     
+     }
+     .fa-solid {
+         margin-right: 15px;
+       
+     }
+     .nav1 > ul > li{
+         margin: 1rem;
+     }
+     .nav1 > ul{
+         display: flex;
+         list-style: none;
+     }
+     .navigation > div > ul {
+         display: flex;
+         list-style: none;
+     }
+     .navigation > div > ul > li {
+       margin: 1rem;
+     }
+     .navigation > div > ul > li > a {
+         list-style: none;
+         text-decoration: none;
+         color: black;
+         cursor: pointer;
+     }
+     .nav2 {
+         background-color: #4c5b61;
+         height: 3rem;
+         border-radius: 25px;
+         padding: .4rem 0rem;
+     }
+     .nav2 > ul > li > a{
+         text-decoration: none;
+         color: white;
+     }
+     .nav2 > ul > li > i {
+         color: white;
+     }
+     .services {
+         color: white;
+         background-color: #4c5b61;
+         border: none;margin: 0;
+     }
+     .finder {
+     padding:0 1.5rem;
+     padding-left: 3rem;
+     }
+     
+     .nav2 > ul {
+         color: #fff;
+         display: flex;
+         justify-content: space-between;
+         list-style: none;
+     }
+     .three1 {
+        text-decoration: none;
+        background-color: #4c5b61;
+        justify-content: center;
+        display: flex;
+        border: none;
+        color: #fff;
+        flex-wrap: wrap;
+    }
+     .div-1 > h1{
+        color: #4c5b61;
+        font-weight: 300;
+        font-size: 4.2rem;
+        line-height: 1.11;
+        margin-left: 2rem;
+     }
+     .div-1 > p {
+        margin-left: 3rem;
+        color: #4c5b61;
+       font-size: 1rem;
+       margin-left: 2rem;
+     }
+     .div-1 > h2 {
+        font-weight: bold;
+        color: #4c5b61;
+        font-size: 21px;
+        margin-left: 2rem;
+     }
+     .strong > h2 {
+        font-size: 3rem;
+        line-height: 3.6rem;
+        color: #068184;
+        margin-bottom: 15px;
+        margin-left: 2rem;
+     }
+     .strong > p {
+    color: #4c5b61;
+    font-size: 1rem;
+    line-height: 2.4rem;
+    margin-bottom: 30px;
+    margin-left: 2rem;
+}
+.urgent > h2 {
+    font-size: 2rem;
+    font-weight: 300;
+    color: black;
+    margin-left: 2rem;
+}
+.urgent > h3 {
+    color: #4c5b61;
+    line-height: 1.43;
+    margin-left: 2rem;
+    margin-left: 2rem;
+}
+.urgent > p {
+    margin-left: 2rem;
+}
+
+.fyi > h2 {
+    color: #068184;
+    font-size: 3rem;
+    line-height: 3.6rem;
+    margin-bottom: 15px;
+    margin-left: 3rem;
+}
+.fyi>h3 {
+    color: #808080;
+    font-size: 1.9rem;
+    line-height: 2.7rem;
+    margin-left: 3rem;
+}
+.fyi> p{
+    margin-left: 3rem;
+    color: #4c5b61;
+    line-height: 2.4rem;
+    margin-bottom: 30px;
+}
+.fyi> h3 {
+    color: #808080;
+    font-size: 1.9rem;
+    line-height: 2.7rem;
+}
+.fyi> h4 {
+    font-size: 1.9rem;
+    line-height: 2.7rem;
+    font-weight: 700;
+    margin: 0;
+    color: #068184;
+    margin-left: 3rem;
+
+}
+.to-go >h2 {
+    color: #068184;
+    margin-left: 3rem;
+}
+.to-go >p {
+    color: #808080;
+    margin-left: 3rem;
+}
+.to-go>h3 {
+    color: #068184;
+    margin-left: 3rem;
+}
+
+
+     

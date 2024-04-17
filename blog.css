@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+.blogs {
+    border-radius: 1rem;
+    display: flex; 
+}
+.blog-1 > h1 {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-left: 3rem;
+}
+.blog-1 > p{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    font-size: 1rem;
+}
+.blog-1> ul> li {
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+}
+.blog-1{
+    border: 2px solid black;
+    margin: 1rem;
+    border-radius: 2rem;
+
+}
+
+.blog-1 > img {
+    width: 25rem;
+    height: 20rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-top: 2rem;
+}
+
+.blog-2{
+    border: 2px solid black;
+    display: block;
+    margin: 1rem;
+    border-radius: 2rem;
+
+}
+.blog-2 >h1 {
+    margin-top: 3rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-left: 3rem;
+}
+.blog-2 > h2 {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-top: 3rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.blog-2 > img {
+    width: 25rem;
+    height: 20rem;
+    margin-left: 3rem;
+    margin-top: 2rem;
+    margin-right: 2rem;
+}
+.blog-2 > p{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    font-size: 1rem;
+}
+.blog-3{
+    border: 2px solid black;
+    display: block;
+    margin: 1rem;
+    border-radius: 2rem;
+}
+.blog-3 > h1 {
+    margin-top: 2rem;
+font-size: 1.5rem;
+font-weight: 500;
+margin-left: 3rem;
+}
+
+
+.blog-3 > img {
+    width: 25rem;
+    height: 20rem;
+    justify-content: center;
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+.blog-3 > p{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    font-size: 1rem;
+}
+.blog-3> ul> li {
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+}
